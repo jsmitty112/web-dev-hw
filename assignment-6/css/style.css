@@ -1,0 +1,39 @@
+body {
+  background-color: blue;
+  font-style: normal;
+  font-family: 'Caveat',cursive;
+}
+.container p::first-letter {
+  color: yellow;
+  font-size: 40;
+}
+.containers {
+  background-color: orange;
+  padding: 4em;
+  margin: 3em;
+}
+#title h1{ font-style: normal;
+  text-align: center;
+  font-size: 50;
+  font-style: italic;
+}
+#title h2{font-variant: small-caps;
+  text-align: center;
+  font-size: 30;
+  font-weight: lighter;
+}
+#title p{
+  text-align: center;
+  font-size: 25;
+}
+#first { font-style: italic;
+  font-family: 'Arial';
+  font-size: 25;
+}
+#second {font-style: italic;
+  font-family: 'Arial';
+  font-size: 20;
+}
+#buttons {
+  font-size: 30;
+}

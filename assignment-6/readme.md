@@ -4,4 +4,4 @@ System fonts are fonts installed on the system, allowing them to be pulled up wh
 Web Fonts are fonts hosted on a specific web server. They are made for specific use on the web server only. They can be downloaded to view the web server better.
 Web Safe Fonts are the best for fallback fonts and they allow better compatibility with fonts and the web server to be used.
 I was challened by making this site the way i wanted to. It was a challenge to see where fonts will go and to expect how big they will look. I found myself going back and fourth to make adjusments to placment and color overall.
-![screen]()
+![screen](https://github.com/jsmitty112/web-dev-hw/blob/master/assignment-6/images/screen1.png)
