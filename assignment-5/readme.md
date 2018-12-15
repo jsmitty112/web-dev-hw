@@ -4,4 +4,4 @@ I chose the graphic that looked like a flowing river. Color was a big part of th
 The  three colors i used were 2 similar colors of different shades and on bright color. Complimented the graphic well. 006699, 4dffff, and #ffff00 were the colors.
 
 I had troubles getting the right placement of the graphic along with the txt. I would modify something then try to see if it worked but then nothing would change so it was a challenge to get the txt in place i wanted it as with the graphic. I feel i was making it harder then it was.
-![hi](hi.png)
+![hi](/web-dev-hw/assignment-5/images/hi.png)
