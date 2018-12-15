@@ -1,0 +1,49 @@
+#name {
+  width: 100%;
+  height: 100px;
+  border: 4px dotted white;
+  text-align: center;
+  font-size: 50pt;
+  z-index: 100;
+  font-family: 'Charmonman', bold;
+  margin: 1em;
+}
+
+#title {
+  width: 100%;
+  heiht: 100px;
+  /*border: 4px;*/
+  text-align: center;
+  font-size: 25pt;
+  z-index: 100;
+  font-family: 'Charmonman', italic;
+  margin: 1em;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  /*border: 5px ;*/
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 0;
+  opacity: 0.5;
+  background-color: orange;
+}
+
+#links {
+  position: absolute;
+  left: 500px;
+  top: 2500px;
+  color: blue;
+}
+
+li {
+  display: inline-block;
+  border: 4px solid green;
+  font-size: 16pt;
+  background-color: yellow;
+  font-family: 'Charmonman', cursive;
+}
+p:hover
