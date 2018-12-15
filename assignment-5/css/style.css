@@ -1,0 +1,20 @@
+*{
+  font-family: Arial;
+  background-color: #006699
+  padding: 15px;
+  font-size: 25;
+   /*font size is correct*/
+}
+body {
+
+  font-family: Arial;
+  font-size: 25;
+  background-color: #4dffff
+}
+#site-background {
+  float: center;
+}
+h1 {
+  text-align: center;
+  color: #ffff00;
+}
