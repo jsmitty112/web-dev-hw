@@ -3,9 +3,9 @@
   height: 100px;
   border: 4px dotted white;
   text-align: center;
-  font-size: 50pt;
+  font-size: 25pt;
   z-index: 100;
-  font-family: 'Charmonman', bold;
+  font-family: 'Arial', bold;
   margin: 1em;
 }
 
